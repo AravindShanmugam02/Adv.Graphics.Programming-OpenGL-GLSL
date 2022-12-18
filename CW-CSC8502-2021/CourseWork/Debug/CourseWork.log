@@ -1,0 +1,11 @@
+﻿  Renderer.cpp
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\CourseWork\Renderer.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\CourseWork\Renderer.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\CourseWork\Renderer.cpp(371,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\CourseWork\Renderer.cpp(375,257): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\CourseWork\Renderer.cpp(443,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\CourseWork\Renderer.cpp(447,257): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\CourseWork\Renderer.cpp(490,255): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CourseWork.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'nclgl.lib'

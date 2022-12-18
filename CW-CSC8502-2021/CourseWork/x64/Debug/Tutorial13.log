@@ -1,0 +1,7 @@
+﻿  Renderer.cpp
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\13) Cube Mapping\Renderer.cpp(379,269): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\13) Cube Mapping\Renderer.cpp(457,269): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\13) Cube Mapping\Renderer.cpp(500,267): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\13) Cube Mapping\Renderer.cpp(512,81): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+nclgl.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_DXT.obj)' or at 'C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
+  Tutorial13.vcxproj -> C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Graphics\CSC8502 2021\CSC8502 2021\x64\Debug\Tutorial 13 - Cube Mapping.exe
